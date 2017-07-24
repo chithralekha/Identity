@@ -1,0 +1,10 @@
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.Logger.dll
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.Logger.pdb
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\log4net.dll
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.dll
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\Magpie.Logging.pdb
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\bin\Debug\log4net.xml
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\obj\Debug\Magpie.Logging.Logger.csprojResolveAssemblyReference.cache
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\obj\Debug\Magpie.Logging.Logger.dll
+C:\Users\chith\Documents\GitHub\Identity\Magpie.Identity\Magpie.Logging.Logger\Magpie.Logging.Logger\obj\Debug\Magpie.Logging.Logger.pdb
